@@ -1,5 +1,5 @@
 ![Release 7.4.1](https://img.shields.io/badge/release-7.4.1-green.svg)
-![Build Passing](https://img.shields.io/badge/build-passing-orange.svg)
+![Build Success](https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff.svg)
 ![AndroidLib 28](https://img.shields.io/badge/AndroidLib-28-blue.svg)
 ![Platform Android](https://img.shields.io/badge/Platform-Android-lightgrey.svg)
 ![License AGPL](https://img.shields.io/badge/License-AGPL%203.0%2C%20MIT%2C%20GNU-red.svg)
