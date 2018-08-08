@@ -58,9 +58,9 @@ KEY_ALIAS=xxxx
 
 ## License
 
-     MIT License
+      MIT License
 
-     Copyright (c) 2018 Mobofa
+      Copyright (c) 2018 Mobofa
 
       Permission is hereby granted, free of charge, to any person obtaining a copy
       of this software and associated documentation files (the "Software"), to deal
