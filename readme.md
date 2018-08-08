@@ -1,3 +1,5 @@
+![Release 7.4.1](https://img.shields.io/badge/release-7.4.1-green.svg)
+
 # Mobofa for Twitter
 
 
