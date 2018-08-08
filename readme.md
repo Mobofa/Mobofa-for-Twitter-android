@@ -6,7 +6,6 @@
 ![MaterialDesign ok](https://img.shields.io/badge/Material%20Design-Ok-blue.svg)
 ![Safe 100%](https://img.shields.io/badge/Safe-100%25-lightgrey.svg)
 ![WearOs passed](https://img.shields.io/badge/WearOs-passed-orange.svg)
-![HK Developer](https://img.shields.io/badge/H%3A)K-DEVELOPER-red.svg)
 
 
 
