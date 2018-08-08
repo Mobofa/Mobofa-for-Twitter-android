@@ -1,6 +1,5 @@
 # Mobofa for Twitter
 
-![promo](promo/github/promo.png)
 
 This is the complete version of the Twitter client that I created for Android. It is 100% open source, the only thing that you will have to do plug in is your own API keys.
 
