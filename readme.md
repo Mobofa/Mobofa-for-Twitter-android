@@ -1,4 +1,7 @@
 ![Release 7.4.1](https://img.shields.io/badge/release-7.4.1-green.svg)
+![Build Passing](https://img.shields.io/badge/build-passing-orange.svg)
+![AndroidLib 28](https://img.shields.io/badge/AndroidLib-28-blue.svg)
+
 
 # Mobofa for Twitter
 
